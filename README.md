@@ -15,3 +15,4 @@ JS Homework assigment (Code Quiz)
 4. Javascript
 
 ## Link
+https://ibramelias.github.io/CodeQuiz-/.
