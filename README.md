@@ -16,3 +16,7 @@ JS Homework assigment (Code Quiz)
 
 ## Link
 https://ibramelias.github.io/CodeQuiz-/.
+
+## Screenshot
+![](assets/img/Screen%20Shot%202020-10-20%20at%2012.20.20%20AM.png)
+![](assets/img/Screen%20Shot%202020-10-20%20at%2012.20.30%20AM.png)
