@@ -1,5 +1,5 @@
 # CodeQuiz
-JS Homework assigment (Code Quiz)
+Simple Javascript quiz
 
 ## Running Test 
 1. Open up the Quiz.
